@@ -1,1 +1,1 @@
-# sql-challenge
+# SQL Database Design and Queries
